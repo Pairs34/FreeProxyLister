@@ -1,0 +1,13 @@
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder.deps.json
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder.runtimeconfig.json
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder.runtimeconfig.dev.json
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder.dll
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/ProxyFinder.pdb
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.csprojAssemblyReference.cache
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.AssemblyInfoInputs.cache
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.AssemblyInfo.cs
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.csproj.CopyComplete
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.dll
+/home/pairs/Masaüstü/DotnetCore/ProxyFinder/obj/Debug/netcoreapp3.1/ProxyFinder.pdb
